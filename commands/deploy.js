@@ -33,8 +33,11 @@ module.exports = {
     btnAction.addComponents(...btnRow);
     standAloneBtn.addComponents(btn);
     
-    message.channel.send("↓ 點擊按鈕選擇身份組 ↓", {
-      components: [standAloneBtn, btnAction]
+    message.client.channels.cache.get("863460026483081230").send("↓ 領取觀眾身份組 ↓", {
+      components: [standAloneBtn]
+    });
+    message.client.channels.cache.get("863462132422541312").send("↓ 點選領取/移除身份組 ↓", {
+      components: [btnAction]
     });
   }
 }
