@@ -80,8 +80,8 @@ client.on("ready", () => {
     client.user.setPresence({
       status: "idle",
       activity: {
-        name: "VTCF Discord bot | 還在開發中...",
-        type: "COMPETING"
+        name: "VTCF | 由Wolf yuan製作",
+        type: "PLAYING"
       }
     });
   }, 15000);
@@ -177,7 +177,7 @@ client.on("guildMemberAdd", async (member) => {
 
   const attachment = new MessageAttachment(canvas.toBuffer(), 'image.png');
 
-  client.channels.cache.get("863460026483081229").send(`<@${member.user.id}>歡迎來到VTCF觀眾伺服器!`, attachment);
+  client.channels.cache.get("863460026483081229").send(`<@${member.user.id}>歡迎來到VTCF的觀眾伺服器!\n請前往 <#863460026483081230> 閱讀版鮭和領取身份組喔`, attachment);
 });
 
 client.on("guildMemberRemove", (member) => {
