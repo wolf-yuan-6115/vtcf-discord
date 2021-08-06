@@ -177,7 +177,7 @@ client.on("guildMemberAdd", async (member) => {
 
   const attachment = new MessageAttachment(canvas.toBuffer(), 'image.png');
 
-  channel.send(`<@${member.user.id}>歡迎來到VTCF觀眾伺服器!`, attachment);
+  client.channels.cache.get("863460026483081229").send(`<@${member.user.id}>歡迎來到VTCF觀眾伺服器!`, attachment);
 });
 
 client.on("guildMemberRemove", (member) => {
