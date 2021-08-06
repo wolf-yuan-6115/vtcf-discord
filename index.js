@@ -93,7 +93,7 @@ client.on("ready", () => {
 
 
 client.on("clickButton", async (btn) => {
-  const member = message.guild.members.cache.get(user.id);
+  const member = btn.guild.members.cache.get(btn.clicker.user.id);
   if (!member) return;
   await btn.reply.defer();
   const add = (id) => {
