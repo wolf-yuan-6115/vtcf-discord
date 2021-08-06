@@ -1,0 +1,31 @@
+{
+  "name": "vtcf-discord",
+  "version": "1.0.0",
+  "description": "\"# vtcf-discord\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "14.16.1",
+    "npm": "7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolf-yuan-6115/vtcf-discord.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolf-yuan-6115/vtcf-discord/issues"
+  },
+  "homepage": "https://github.com/wolf-yuan-6115/vtcf-discord#readme",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "node-canvas": "^2.7.0",
+    "quickmongo": "^3.0.2",
+    "rss-feed-emitter": "^3.2.2"
+  }
+}

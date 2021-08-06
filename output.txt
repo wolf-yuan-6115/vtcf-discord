@@ -1,0 +1,666 @@
+{
+  title: '【初配信】軍頭正式出動,準備橫掃台海,還準備了一份大禮給各位！',
+  description: null,
+  summary: null,
+  date: 2021-07-13T01:53:55.000Z,
+  pubdate: 2021-07-10T13:27:10.000Z,
+  pubDate: 2021-07-10T13:27:10.000Z,
+  link: 'https://www.youtube.com/watch?v=V-T3rh0nkyQ',
+  guid: 'yt:video:V-T3rh0nkyQ',
+  author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+  comments: null,
+  origlink: null,
+  image: { url: 'https://i3.ytimg.com/vi/V-T3rh0nkyQ/hqdefault.jpg' },
+  source: {},
+  categories: [],
+  enclosures: [],
+  'atom:@': {},
+  'atom:id': { '@': {}, '#': 'yt:video:V-T3rh0nkyQ' },
+  'yt:videoid': { '@': {}, '#': 'V-T3rh0nkyQ' },
+  'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+  'atom:title': { '@': {}, '#': '【初配信】軍頭正式出動,準備橫掃台海,還準備了一份大禮給各位！' },
+  'atom:link': {
+    '@': {
+      rel: 'alternate',
+      href: 'https://www.youtube.com/watch?v=V-T3rh0nkyQ'
+    }
+  },
+  'atom:author': {
+    '@': {},
+    name: { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    uri: {
+      '@': {},
+      '#': 'https://www.youtube.com/channel/UCP8f3laAxgn85pOVRSiM7qw'
+    }
+  },
+  'atom:published': { '@': {}, '#': '2021-07-10T13:27:10+00:00' },
+  'atom:updated': { '@': {}, '#': '2021-07-13T01:53:55+00:00' },
+  'media:group': {
+    '@': {},
+    'media:title': { '@': {}, '#': '【初配信】軍頭正式出動,準備橫掃台海,還準備了一份大禮給各位！' },
+    'media:content': { '@': [Object] },
+    'media:thumbnail': { '@': [Object] },
+    'media:description': {
+      '@': {},
+      '#': '----------------------------------【配信主題】----------------------------------\n' +
+        '\n' +
+        '今天是第一次與大家見面,會簡單聊一下頻道未來走向以及未來預計的企劃,還有回復大家留的問題(棉花糖),希望能帶給大家一個輕鬆又愉快的夜晚UWU\n' +
+        '\n' +
+        'btw 還有宣傳uwu神教!\n' +
+        '-使用 !uwu 來獲得祝福(測試功能)-\n' +
+        '\n' +
+        '※Twitch x Youtube 雙平台放送※\n' +
+        '中文✔台語✔English✔日本語✔\n' +
+        '\n' +
+        '----------------------------------【斗內點歌】----------------------------------\n' +
+        '\n' +
+        'Donate : https://salmon4neko.com/donate\n' +
+        '\n' +
+        '請注意以下鮭則：\n' +
+        '1.可只斗內不放影片\n' +
+        '2.影片及留言請遵守YT社群規則以及中華民國法律\n' +
+        '3.若影片太惱人有可能會被切掉\n' +
+        '4.若無特別標註將會捐出實收斗內金額的一半\n' +
+        '\n' +
+        '----------------------------------【社群連結】----------------------------------\n' +
+        '\n' +
+        'Twitter：https://salmon4neko.com/Twitter\n' +
+        'YouTube：https://salmon4neko.com/YT\n' +
+        'Twitch：https://salmon4neko.com/Twitch\n' +
+        'QA(棉花糖)：https://salmon4neko.com/QA\n' +
+        '\n' +
+        '----------------------------------【官方網站】----------------------------------\n' +
+        '\n' +
+        'Official Website：https://salmon4neko.com\n' +
+        '合作／工商／聯絡：questions@salmon4neko.com\n' +
+        '\n' +
+        '----------------------------------【頻道台鮭】----------------------------------\n' +
+        '\n' +
+        '目前沒有鮭則,視聊天室狀況增加\n' +
+        '\n' +
+        '----------------------------------【使用設備】----------------------------------\n' +
+        '\n' +
+        '這邊是本鮭使用的設備,也歡迎各位協助升級uwub\n' +
+        'https://salmon4neko.com/my-computer\n' +
+        '\n' +
+        '----------------------------------【頻道理念】----------------------------------\n' +
+        '\n' +
+        '每月一半收入將投入公益團體,為環境保育、弱勢團體、永續發展敬一分心力\n' +
+        '*其中10%協助所屬企劃運行*\n' +
+        '\n' +
+        '----------------------------------【所屬企劃】----------------------------------\n' +
+        '\n' +
+        'VTCF Project\n' +
+        '具有台灣文化特色的虛擬主播 (Vtuber of Taiwanese Cultural Features)\n' +
+        '結合文化、美食、以及迷因，以宣揚台灣價值為目標，以Vtuber的形象在大眾面前呈現。\n' +
+        '\n' +
+        '現在加入VTCF Project官方臉書以追蹤最新消息\n' +
+        'https://www.facebook.com/VTCF2021\n' +
+        '\n' +
+        '與我們聯絡: vtcf.tw@gmail.com\n' +
+        '\n' +
+        '----------------------------------【影片授權】----------------------------------'
+    },
+    'media:community': {
+      '@': {},
+      'media:starrating': [Object],
+      'media:statistics': [Object]
+    }
+  },
+  meta: {
+    '#ns': [ [Object], [Object], [Object] ],
+    '@': [ [Object], [Object], [Object] ],
+    '#xml': { version: '1.0', encoding: 'UTF-8' },
+    '#type': 'atom',
+    '#version': '1.0',
+    title: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    description: null,
+    date: 2021-04-16T14:30:17.000Z,
+    pubdate: 2021-04-16T14:30:17.000Z,
+    pubDate: 2021-04-16T14:30:17.000Z,
+    link: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlurl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlUrl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    language: null,
+    favicon: null,
+    copyright: null,
+    generator: null,
+    cloud: {},
+    image: {},
+    categories: [],
+    'atom:@': {
+      'xmlns:yt': 'http://www.youtube.com/xml/schemas/2015',
+      'xmlns:media': 'http://search.yahoo.com/mrss/',
+      xmlns: 'http://www.w3.org/2005/Atom'
+    },
+    'atom:link': [ [Object], [Object] ],
+    'atom:id': { '@': {}, '#': 'yt:channel:UCP8f3laAxgn85pOVRSiM7qw' },
+    'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+    'atom:title': { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    'atom:author': { '@': {}, name: [Object], uri: [Object] },
+    'atom:published': { '@': {}, '#': '2021-04-16T14:30:17+00:00' }
+  }
+}
+{
+  title: '【Valorant x 雜談】悠閒的在戰場閒聊是不是搞錯了什麼? | 軍頭鮭烈',
+  description: null,
+  summary: null,
+  date: 2021-07-15T05:19:50.000Z,
+  pubdate: 2021-07-14T01:04:22.000Z,
+  pubDate: 2021-07-14T01:04:22.000Z,
+  link: 'https://www.youtube.com/watch?v=wrTj9WlwZqY',
+  guid: 'yt:video:wrTj9WlwZqY',
+  author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+  comments: null,
+  origlink: null,
+  image: { url: 'https://i4.ytimg.com/vi/wrTj9WlwZqY/hqdefault.jpg' },
+  source: {},
+  categories: [],
+  enclosures: [],
+  'atom:@': {},
+  'atom:id': { '@': {}, '#': 'yt:video:wrTj9WlwZqY' },
+  'yt:videoid': { '@': {}, '#': 'wrTj9WlwZqY' },
+  'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+  'atom:title': { '@': {}, '#': '【Valorant x 雜談】悠閒的在戰場閒聊是不是搞錯了什麼? | 軍頭鮭烈' },
+  'atom:link': {
+    '@': {
+      rel: 'alternate',
+      href: 'https://www.youtube.com/watch?v=wrTj9WlwZqY'
+    }
+  },
+  'atom:author': {
+    '@': {},
+    name: { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    uri: {
+      '@': {},
+      '#': 'https://www.youtube.com/channel/UCP8f3laAxgn85pOVRSiM7qw'
+    }
+  },
+  'atom:published': { '@': {}, '#': '2021-07-14T01:04:22+00:00' },
+  'atom:updated': { '@': {}, '#': '2021-07-15T05:19:50+00:00' },
+  'media:group': {
+    '@': {},
+    'media:title': { '@': {}, '#': '【Valorant x 雜談】悠閒的在戰場閒聊是不是搞錯了什麼? | 軍頭鮭烈' },
+    'media:content': { '@': [Object] },
+    'media:thumbnail': { '@': [Object] },
+    'media:description': {
+      '@': {},
+      '#': '----------------------------------【配信主題】----------------------------------\n' +
+        '\n' +
+        '原本今天要開Apex台但Apex一直不穩所以才決定先玩其他遊戲,會3D暈的魚土土們也不用擔心,可以當成雜談回,本鮭也會和大家輕鬆地聊天,希望能帶給大家一個輕鬆的夜晚uwub\n' +
+        '\n' +
+        'btw 還有宣傳uwu神教!\n' +
+        '-使用 !uwu 來獲得祝福-\n' +
+        '\n' +
+        '※Twitch x Youtube 雙平台放送※\n' +
+        '中文✔台語✔English✔日本語✔\n' +
+        '\n' +
+        '----------------------------------【斗內點歌】----------------------------------\n' +
+        '\n' +
+        'Donate : https://salmon4neko.com/donate\n' +
+        '\n' +
+        '請注意以下鮭則：\n' +
+        '1.可只斗內不放影片\n' +
+        '2.影片及留言請遵守YT社群規則以及中華民國法律\n' +
+        '3.若影片太惱人有可能會被切掉\n' +
+        '4.若無特別標註將會捐出實收斗內金額的一半\n' +
+        '\n' +
+        '----------------------------------【社群連結】----------------------------------\n' +
+        '\n' +
+        'Twitter：https://salmon4neko.com/Twitter\n' +
+        'YouTube：https://salmon4neko.com/YT\n' +
+        'Twitch：https://salmon4neko.com/Twitch\n' +
+        'QA(棉花糖)：https://salmon4neko.com/QA\n' +
+        '\n' +
+        '----------------------------------【官方網站】----------------------------------\n' +
+        '\n' +
+        'Official Website：https://salmon4neko.com\n' +
+        '合作／工商／聯絡：questions@salmon4neko.com\n' +
+        '\n' +
+        '----------------------------------【頻道台鮭】----------------------------------\n' +
+        '\n' +
+        '目前沒有鮭則,視聊天室狀況增加\n' +
+        '\n' +
+        '----------------------------------【使用設備】----------------------------------\n' +
+        '\n' +
+        '這邊是本鮭使用的設備,也歡迎各位協助升級uwub\n' +
+        'https://salmon4neko.com/my-computer\n' +
+        '\n' +
+        '----------------------------------【頻道理念】----------------------------------\n' +
+        '\n' +
+        '每月一半收入將投入公益團體,為環境保育、弱勢團體、永續發展敬一分心力\n' +
+        '*其中10%協助所屬企劃運行*\n' +
+        '\n' +
+        '----------------------------------【所屬企劃】----------------------------------\n' +
+        '\n' +
+        'VTCF Project\n' +
+        '具有台灣文化特色的虛擬主播 (Vtuber of Taiwanese Cultural Features)\n' +
+        '結合文化、美食、以及迷因，以宣揚台灣價值為目標，以Vtuber的形象在大眾面前呈現。\n' +
+        '\n' +
+        '現在加入VTCF Project官方臉書以追蹤最新消息\n' +
+        'https://www.facebook.com/VTCF2021\n' +
+        '\n' +
+        '與我們聯絡: vtcf.tw@gmail.com\n' +
+        '\n' +
+        '----------------------------------【影片授權】----------------------------------'
+    },
+    'media:community': {
+      '@': {},
+      'media:starrating': [Object],
+      'media:statistics': [Object]
+    }
+  },
+  meta: {
+    '#ns': [ [Object], [Object], [Object] ],
+    '@': [ [Object], [Object], [Object] ],
+    '#xml': { version: '1.0', encoding: 'UTF-8' },
+    '#type': 'atom',
+    '#version': '1.0',
+    title: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    description: null,
+    date: 2021-04-16T14:30:17.000Z,
+    pubdate: 2021-04-16T14:30:17.000Z,
+    pubDate: 2021-04-16T14:30:17.000Z,
+    link: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlurl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlUrl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    language: null,
+    favicon: null,
+    copyright: null,
+    generator: null,
+    cloud: {},
+    image: {},
+    categories: [],
+    'atom:@': {
+      'xmlns:yt': 'http://www.youtube.com/xml/schemas/2015',
+      'xmlns:media': 'http://search.yahoo.com/mrss/',
+      xmlns: 'http://www.w3.org/2005/Atom'
+    },
+    'atom:link': [ [Object], [Object] ],
+    'atom:id': { '@': {}, '#': 'yt:channel:UCP8f3laAxgn85pOVRSiM7qw' },
+    'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+    'atom:title': { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    'atom:author': { '@': {}, name: [Object], uri: [Object] },
+    'atom:published': { '@': {}, '#': '2021-04-16T14:30:17+00:00' }
+  }
+}
+{
+  title: '【CSGO x 雜談】全台最鮭的超泡狙擊上線啦 | 軍頭鮭烈',
+  description: null,
+  summary: null,
+  date: 2021-07-16T17:36:46.000Z,
+  pubdate: 2021-07-16T01:02:00.000Z,
+  pubDate: 2021-07-16T01:02:00.000Z,
+  link: 'https://www.youtube.com/watch?v=oGtGS6IKubQ',
+  guid: 'yt:video:oGtGS6IKubQ',
+  author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+  comments: null,
+  origlink: null,
+  image: { url: 'https://i4.ytimg.com/vi/oGtGS6IKubQ/hqdefault.jpg' },
+  source: {},
+  categories: [],
+  enclosures: [],
+  'atom:@': {},
+  'atom:id': { '@': {}, '#': 'yt:video:oGtGS6IKubQ' },
+  'yt:videoid': { '@': {}, '#': 'oGtGS6IKubQ' },
+  'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+  'atom:title': { '@': {}, '#': '【CSGO x 雜談】全台最鮭的超泡狙擊上線啦 | 軍頭鮭烈' },
+  'atom:link': {
+    '@': {
+      rel: 'alternate',
+      href: 'https://www.youtube.com/watch?v=oGtGS6IKubQ'
+    }
+  },
+  'atom:author': {
+    '@': {},
+    name: { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    uri: {
+      '@': {},
+      '#': 'https://www.youtube.com/channel/UCP8f3laAxgn85pOVRSiM7qw'
+    }
+  },
+  'atom:published': { '@': {}, '#': '2021-07-16T01:02:00+00:00' },
+  'atom:updated': { '@': {}, '#': '2021-07-16T17:36:46+00:00' },
+  'media:group': {
+    '@': {},
+    'media:title': { '@': {}, '#': '【CSGO x 雜談】全台最鮭的超泡狙擊上線啦 | 軍頭鮭烈' },
+    'media:content': { '@': [Object] },
+    'media:thumbnail': { '@': [Object] },
+    'media:description': {
+      '@': {},
+      '#': '----------------------------------【配信主題】----------------------------------\n' +
+        '\n' +
+        '生為一個FPS愛好者,CSGO是一定不能錯過的,緊張刺激的戰局,快節奏對戰都讓人愛不釋手,時間允許的話還可以來開個箱子,說不定能開到那個傳奇刀子,就讓我們看看這是一隻歐洲鮭還非洲鮭吧UWU\n' +
+        '\n' +
+        'btw 還有宣傳uwu神教!\n' +
+        '-使用 !uwu 來獲得祝福-\n' +
+        '-使用 !bonk 來讓軍頭鮭烈-\n' +
+        '\n' +
+        '※Twitch x Youtube 雙平台放送※\n' +
+        '中文✔台語✔English✔日本語✔\n' +
+        '\n' +
+        '----------------------------------【斗內點歌】----------------------------------\n' +
+        '\n' +
+        'Donate : https://salmon4neko.com/donate\n' +
+        '\n' +
+        '請注意以下鮭則：\n' +
+        '1.可只斗內不放影片\n' +
+        '2.影片及留言請遵守YT社群規則以及中華民國法律\n' +
+        '3.若影片太惱人有可能會被切掉\n' +
+        '4.若無特別標註將會捐出實收斗內金額的一半\n' +
+        '\n' +
+        '----------------------------------【社群連結】----------------------------------\n' +
+        '\n' +
+        'Twitter：https://salmon4neko.com/Twitter\n' +
+        'YouTube：https://salmon4neko.com/YT\n' +
+        'Twitch：https://salmon4neko.com/Twitch\n' +
+        'QA(棉花糖)：https://salmon4neko.com/QA\n' +
+        '\n' +
+        '----------------------------------【官方網站】----------------------------------\n' +
+        '\n' +
+        'Official Website：https://salmon4neko.com\n' +
+        '合作／工商／聯絡：questions@salmon4neko.com\n' +
+        '\n' +
+        '----------------------------------【頻道台鮭】----------------------------------\n' +
+        '\n' +
+        '目前沒有鮭則,視聊天室狀況增加\n' +
+        '\n' +
+        '----------------------------------【使用設備】----------------------------------\n' +
+        '\n' +
+        '這邊是本鮭使用的設備,也歡迎各位協助升級uwub\n' +
+        'https://salmon4neko.com/my-computer\n' +
+        '\n' +
+        '----------------------------------【頻道理念】----------------------------------\n' +
+        '\n' +
+        '每月一半收入將投入公益團體,為環境保育、弱勢團體、永續發展敬一分心力\n' +
+        '*其中10%協助所屬企劃運行*\n' +
+        '\n' +
+        '----------------------------------【所屬企劃】----------------------------------\n' +
+        '\n' +
+        'VTCF Project\n' +
+        '具有台灣文化特色的虛擬主播 (Vtuber of Taiwanese Cultural Features)\n' +
+        '結合文化、美食、以及迷因，以宣揚台灣價值為目標，以Vtuber的形象在大眾面前呈現。\n' +
+        '\n' +
+        '現在加入VTCF Project官方臉書以追蹤最新消息\n' +
+        'https://www.facebook.com/VTCF2021\n' +
+        '\n' +
+        '與我們聯絡: vtcf.tw@gmail.com\n' +
+        '\n' +
+        '----------------------------------【影片授權】----------------------------------\n' +
+        '創用 CC 姓名標示授權 (允許再利用)\n' +
+        'https://www.youtube.com/t/creative_commons'
+    },
+    'media:community': {
+      '@': {},
+      'media:starrating': [Object],
+      'media:statistics': [Object]
+    }
+  },
+  meta: {
+    '#ns': [ [Object], [Object], [Object] ],
+    '@': [ [Object], [Object], [Object] ],
+    '#xml': { version: '1.0', encoding: 'UTF-8' },
+    '#type': 'atom',
+    '#version': '1.0',
+    title: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    description: null,
+    date: 2021-04-16T14:30:17.000Z,
+    pubdate: 2021-04-16T14:30:17.000Z,
+    pubDate: 2021-04-16T14:30:17.000Z,
+    link: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlurl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlUrl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    language: null,
+    favicon: null,
+    copyright: null,
+    generator: null,
+    cloud: {},
+    image: {},
+    categories: [],
+    'atom:@': {
+      'xmlns:yt': 'http://www.youtube.com/xml/schemas/2015',
+      'xmlns:media': 'http://search.yahoo.com/mrss/',
+      xmlns: 'http://www.w3.org/2005/Atom'
+    },
+    'atom:link': [ [Object], [Object] ],
+    'atom:id': { '@': {}, '#': 'yt:channel:UCP8f3laAxgn85pOVRSiM7qw' },
+    'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+    'atom:title': { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    'atom:author': { '@': {}, name: [Object], uri: [Object] },
+    'atom:published': { '@': {}, '#': '2021-04-16T14:30:17+00:00' }
+  }
+}
+{
+  title: '【Minecraft x 雜談】從0.43開始的新手生存 | 軍頭鮭烈',
+  description: null,
+  summary: null,
+  date: 2021-07-17T15:39:00.000Z,
+  pubdate: 2021-07-17T14:13:21.000Z,
+  pubDate: 2021-07-17T14:13:21.000Z,
+  link: 'https://www.youtube.com/watch?v=R90667JPfPw',
+  guid: 'yt:video:R90667JPfPw',
+  author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+  comments: null,
+  origlink: null,
+  image: { url: 'https://i3.ytimg.com/vi/R90667JPfPw/hqdefault.jpg' },
+  source: {},
+  categories: [],
+  enclosures: [],
+  'atom:@': {},
+  'atom:id': { '@': {}, '#': 'yt:video:R90667JPfPw' },
+  'yt:videoid': { '@': {}, '#': 'R90667JPfPw' },
+  'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+  'atom:title': { '@': {}, '#': '【Minecraft x 雜談】從0.43開始的新手生存 | 軍頭鮭烈' },
+  'atom:link': {
+    '@': {
+      rel: 'alternate',
+      href: 'https://www.youtube.com/watch?v=R90667JPfPw'
+    }
+  },
+  'atom:author': {
+    '@': {},
+    name: { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    uri: {
+      '@': {},
+      '#': 'https://www.youtube.com/channel/UCP8f3laAxgn85pOVRSiM7qw'
+    }
+  },
+  'atom:published': { '@': {}, '#': '2021-07-17T14:13:21+00:00' },
+  'atom:updated': { '@': {}, '#': '2021-07-17T15:39:00+00:00' },
+  'media:group': {
+    '@': {},
+    'media:title': { '@': {}, '#': '【Minecraft x 雜談】從0.43開始的新手生存 | 軍頭鮭烈' },
+    'media:content': { '@': [Object] },
+    'media:thumbnail': { '@': [Object] },
+    'media:description': {
+      '@': {},
+      '#': '----------------------------------【配信主題】----------------------------------\n' +
+        '\n' +
+        'MC做為一個熱門長壽遊戲,已經更新了很多個版本,雖然這隻鮭魚貓以前有曾經玩過,但快速的時代更替還是令它手足無措,究竟他能完美的回來嗎?\n' +
+        '\n' +
+        'btw 還有宣傳uwu神教!\n' +
+        '-使用 !uwu 來獲得祝福-\n' +
+        '-使用 !bonk 來讓軍頭鮭烈-\n' +
+        '\n' +
+        '※Twitch x Youtube 雙平台放送※\n' +
+        '中文✔台語✔English✔日本語✔\n' +
+        '\n' +
+        '----------------------------------【斗內點歌】----------------------------------\n' +
+        '\n' +
+        'Donate : https://salmon4neko.com/donate\n' +
+        '\n' +
+        '請注意以下鮭則：\n' +
+        '1.可只斗內不放影片\n' +
+        '2.影片及留言請遵守YT社群規則以及中華民國法律\n' +
+        '3.若影片太惱人有可能會被切掉\n' +
+        '4.若無特別標註將會捐出實收斗內金額的一半\n' +
+        '\n' +
+        '----------------------------------【社群連結】----------------------------------\n' +
+        '\n' +
+        'Twitter：https://salmon4neko.com/Twitter\n' +
+        'YouTube：https://salmon4neko.com/YT\n' +
+        'Twitch：https://salmon4neko.com/Twitch\n' +
+        'QA(棉花糖)：https://salmon4neko.com/QA\n' +
+        '\n' +
+        '----------------------------------【官方網站】----------------------------------\n' +
+        '\n' +
+        'Official Website：https://salmon4neko.com\n' +
+        '合作／工商／聯絡：questions@salmon4neko.com\n' +
+        '\n' +
+        '----------------------------------【頻道台鮭】----------------------------------\n' +
+        '\n' +
+        '目前沒有鮭則,視聊天室狀況增加\n' +
+        '\n' +
+        '----------------------------------【使用設備】----------------------------------\n' +
+        '\n' +
+        '這邊是本鮭使用的設備,也歡迎各位協助升級uwub\n' +
+        'https://salmon4neko.com/my-computer\n' +
+        '\n' +
+        '----------------------------------【頻道理念】----------------------------------\n' +
+        '\n' +
+        '每月一半收入將投入公益團體,為環境保育、弱勢團體、永續發展敬一分心力\n' +
+        '*其中10%協助所屬企劃運行*\n' +
+        '\n' +
+        '----------------------------------【所屬企劃】----------------------------------\n' +
+        '\n' +
+        'VTCF Project\n' +
+        '具有台灣文化特色的虛擬主播 (Vtuber of Taiwanese Cultural Features)\n' +
+        '結合文化、美食、以及迷因，以宣揚台灣價值為目標，以Vtuber的形象在大眾面前呈現。\n' +
+        '\n' +
+        '現在加入VTCF Project官方臉書以追蹤最新消息\n' +
+        'https://www.facebook.com/VTCF2021\n' +
+        '\n' +
+        '與我們聯絡: vtcf.tw@gmail.com\n' +
+        '\n' +
+        '----------------------------------【影片授權】----------------------------------\n' +
+        '創用 CC 姓名標示授權 (允許再利用)\n' +
+        'https://www.youtube.com/t/creative_commons'
+    },
+    'media:community': {
+      '@': {},
+      'media:starrating': [Object],
+      'media:statistics': [Object]
+    }
+  },
+  meta: {
+    '#ns': [ [Object], [Object], [Object] ],
+    '@': [ [Object], [Object], [Object] ],
+    '#xml': { version: '1.0', encoding: 'UTF-8' },
+    '#type': 'atom',
+    '#version': '1.0',
+    title: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    description: null,
+    date: 2021-04-16T14:30:17.000Z,
+    pubdate: 2021-04-16T14:30:17.000Z,
+    pubDate: 2021-04-16T14:30:17.000Z,
+    link: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlurl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlUrl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    language: null,
+    favicon: null,
+    copyright: null,
+    generator: null,
+    cloud: {},
+    image: {},
+    categories: [],
+    'atom:@': {
+      'xmlns:yt': 'http://www.youtube.com/xml/schemas/2015',
+      'xmlns:media': 'http://search.yahoo.com/mrss/',
+      xmlns: 'http://www.w3.org/2005/Atom'
+    },
+    'atom:link': [ [Object], [Object] ],
+    'atom:id': { '@': {}, '#': 'yt:channel:UCP8f3laAxgn85pOVRSiM7qw' },
+    'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+    'atom:title': { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    'atom:author': { '@': {}, name: [Object], uri: [Object] },
+    'atom:published': { '@': {}, '#': '2021-04-16T14:30:17+00:00' }
+  }
+}
+{
+  title: '【日程表】7/19-7/25 軍頭鮭烈ロキLoki日程表',
+  description: null,
+  summary: null,
+  date: 2021-07-18T09:04:18.000Z,
+  pubdate: 2021-07-18T09:04:16.000Z,
+  pubDate: 2021-07-18T09:04:16.000Z,
+  link: 'https://www.youtube.com/watch?v=qWAIq7IoktU',
+  guid: 'yt:video:qWAIq7IoktU',
+  author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+  comments: null,
+  origlink: null,
+  image: { url: 'https://i2.ytimg.com/vi/qWAIq7IoktU/hqdefault.jpg' },
+  source: {},
+  categories: [],
+  enclosures: [],
+  'atom:@': {},
+  'atom:id': { '@': {}, '#': 'yt:video:qWAIq7IoktU' },
+  'yt:videoid': { '@': {}, '#': 'qWAIq7IoktU' },
+  'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+  'atom:title': { '@': {}, '#': '【日程表】7/19-7/25 軍頭鮭烈ロキLoki日程表' },
+  'atom:link': {
+    '@': {
+      rel: 'alternate',
+      href: 'https://www.youtube.com/watch?v=qWAIq7IoktU'
+    }
+  },
+  'atom:author': {
+    '@': {},
+    name: { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    uri: {
+      '@': {},
+      '#': 'https://www.youtube.com/channel/UCP8f3laAxgn85pOVRSiM7qw'
+    }
+  },
+  'atom:published': { '@': {}, '#': '2021-07-18T09:04:16+00:00' },
+  'atom:updated': { '@': {}, '#': '2021-07-18T09:04:18+00:00' },
+  'media:group': {
+    '@': {},
+    'media:title': { '@': {}, '#': '【日程表】7/19-7/25 軍頭鮭烈ロキLoki日程表' },
+    'media:content': { '@': [Object] },
+    'media:thumbnail': { '@': [Object] },
+    'media:description': { '@': {} },
+    'media:community': {
+      '@': {},
+      'media:starrating': [Object],
+      'media:statistics': [Object]
+    }
+  },
+  meta: {
+    '#ns': [ [Object], [Object], [Object] ],
+    '@': [ [Object], [Object], [Object] ],
+    '#xml': { version: '1.0', encoding: 'UTF-8' },
+    '#type': 'atom',
+    '#version': '1.0',
+    title: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    description: null,
+    date: 2021-04-16T14:30:17.000Z,
+    pubdate: 2021-04-16T14:30:17.000Z,
+    pubDate: 2021-04-16T14:30:17.000Z,
+    link: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlurl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    xmlUrl: 'http://www.youtube.com/feeds/videos.xml?channel_id=UCP8f3laAxgn85pOVRSiM7qw',
+    author: '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber',
+    language: null,
+    favicon: null,
+    copyright: null,
+    generator: null,
+    cloud: {},
+    image: {},
+    categories: [],
+    'atom:@': {
+      'xmlns:yt': 'http://www.youtube.com/xml/schemas/2015',
+      'xmlns:media': 'http://search.yahoo.com/mrss/',
+      xmlns: 'http://www.w3.org/2005/Atom'
+    },
+    'atom:link': [ [Object], [Object] ],
+    'atom:id': { '@': {}, '#': 'yt:channel:UCP8f3laAxgn85pOVRSiM7qw' },
+    'yt:channelid': { '@': {}, '#': 'UCP8f3laAxgn85pOVRSiM7qw' },
+    'atom:title': { '@': {}, '#': '軍頭鮭烈 | ロキLoki | VTCF企劃勢Vtuber' },
+    'atom:author': { '@': {}, name: [Object], uri: [Object] },
+    'atom:published': { '@': {}, '#': '2021-04-16T14:30:17+00:00' }
+  }
+}
