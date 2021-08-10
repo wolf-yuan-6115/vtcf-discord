@@ -23,6 +23,10 @@ rss.add({
   url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCIzOGbR1J-cV3UjRxOURBOw",
   refresh: 15000,
   eventName: "vegetable"
+}, {
+  url: "https://www.youtube.com/feeds/videos.xml?channel_id=UCqeR-UWr2KwGtAc6MHhM-_w",
+  refresh: 15000,
+  eventName: "partner"
 });
 
 let prefix = "v!"
@@ -64,6 +68,18 @@ rss.on("baka", (event) => {
 
 rss.on("vegetable", (event) => {
   let channel = client.channels.cache.get("864315342705000480");
+  let embed = new MessageEmbed()
+    .setTitle(`${event.title}`)
+    .setURL(event.link)
+    .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
+    .setDescription(`[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`)
+    .setColor("BLURPLE");
+  channel.send("<@&864192749275185193>", embed)
+    .catch(console.error);
+});
+
+rss.on("partner", (event) => {
+  let channel = client.channels.cache.get("872808532129497139");
   let embed = new MessageEmbed()
     .setTitle(`${event.title}`)
     .setURL(event.link)
