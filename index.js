@@ -180,6 +180,10 @@ client.on("guildMemberAdd", async (member) => {
   context.fillStyle = '#ffffff';
   context.fillText(`${member.displayName}!`, canvas.width / 2.5, canvas.height / 1.8);
 
+  context.font = '30px custom-font';
+  context.fillStyle = '#ffffff';
+  context.fillText(`您是第${member.guild.memberCount}個成員`, canvas.width / 2.5, canvas.height / 1.3);
+
   context.beginPath();
   context.arc(125, 125, 100, 0, Math.PI * 2, true);
   context.closePath();
