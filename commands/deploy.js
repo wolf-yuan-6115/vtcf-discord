@@ -26,7 +26,7 @@ module.exports = {
       .setLabel("領取Minecraft身份組")
       .setID("minecraft"));
     btnRow.push(new MessageButton()
-      .setStyle("blurple")
+      .setStyle("green")
       .setLabel("領取Rick Astley身份組")
       .setID("rick"));
     

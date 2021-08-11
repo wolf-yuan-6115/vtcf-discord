@@ -68,21 +68,21 @@ rss.on("salmon", async (event) => {
     .catch(console.error);
 });
 
-rss.on("baka", (event) => {
+rss.on("baka", async (event) => {
   let channel = client.channels.cache.get("864315258347978783");
   let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
 
-rss.on("vegetable", (event) => {
+rss.on("vegetable", async (event) => {
   let channel = client.channels.cache.get("864315342705000480");
   let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
 
-rss.on("partner", (event) => {
+rss.on("partner", async (event) => {
   let channel = client.channels.cache.get("872808532129497139");
   let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
