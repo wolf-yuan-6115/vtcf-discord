@@ -26,6 +26,7 @@
     "dotenv": "^10.0.0",
     "node-canvas": "^2.7.0",
     "quickmongo": "^3.0.2",
-    "rss-feed-emitter": "^3.2.2"
+    "rss-feed-emitter": "^3.2.2",
+    "ytdl-core": "^4.9.1"
   }
 }

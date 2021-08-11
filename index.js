@@ -1,6 +1,7 @@
 require("dotenv").config();
 const { Client, Collection, MessageAttachment, MessageEmbed } = require("discord.js");
 const { readdirSync } = require("fs");
+const { getInfo } = require("ytdl-core");
 const Canvas = require("node-canvas");
 const Rss = require("rss-feed-emitter");
 const disbut = require("discord-buttons");
@@ -42,50 +43,48 @@ for (const file of commandFiles) {
   console.log(`Load ${command.name}`);
 }
 
-rss.on("salmon", (event) => {
+function makeRssEmbed(event) {
+  return new Promise(async (reslove, reject) => {
+    let embed = new MessageEmbed()
+      .setTitle(`${event.title}`)
+      .setURL(event.link)
+      .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
+      .setColor("BLURPLE")
+      .addField("頻道名稱:", `[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`, true);
+    let videoInfo = await getInfo(event.link);
+    if (videoInfo.liveBroadcastDetails) {
+      let startDate = Date.parse(videoInfo.liveBroadcastDetails.startTimestamp);
+      let startString = startDate.toLocaleString('zh-TW', { timeZone: 'Asia/Taipei' })
+      embed.addField("直播開始時間", startString, true);
+    }
+    reslove(embed);
+  });
+}
+
+rss.on("salmon", async (event) => {
   let channel = client.channels.cache.get("864315435398463509");
-  let embed = new MessageEmbed()
-    .setTitle(`${event.title}`)
-    .setURL(event.link)
-    .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
-    .setDescription(`[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`)
-    .setColor("BLURPLE");
+  let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
 
 rss.on("baka", (event) => {
   let channel = client.channels.cache.get("864315258347978783");
-  let embed = new MessageEmbed()
-    .setTitle(`${event.title}`)
-    .setURL(event.link)
-    .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
-    .setDescription(`[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`)
-    .setColor("BLURPLE");
+  let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
 
 rss.on("vegetable", (event) => {
   let channel = client.channels.cache.get("864315342705000480");
-  let embed = new MessageEmbed()
-    .setTitle(`${event.title}`)
-    .setURL(event.link)
-    .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
-    .setDescription(`[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`)
-    .setColor("BLURPLE");
+  let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
 
 rss.on("partner", (event) => {
   let channel = client.channels.cache.get("872808532129497139");
-  let embed = new MessageEmbed()
-    .setTitle(`${event.title}`)
-    .setURL(event.link)
-    .setImage(event["media:group"]["media:thumbnail"]["@"]["url"])
-    .setDescription(`[${event["atom:author"]["name"]["#"]}](${event["atom:author"]["uri"]["#"]})`)
-    .setColor("BLURPLE");
+  let embed = await makeRssEmbed(event);
   channel.send("<@&864192749275185193>", embed)
     .catch(console.error);
 });
